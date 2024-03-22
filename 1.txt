@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hallo World hh
+=======
+hello World hhwww11111
+>>>>>>> feature
 
 I am Tkmb
